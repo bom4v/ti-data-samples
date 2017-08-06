@@ -1,0 +1,14 @@
+/bin
+/.settings
+/.idea
+/target
+/.cache
+/.classpath
+/.project
+/project/project
+/project/target
+/.ensime
+/.ensime_cache
+/.git
+# text editor temp files
+*~
